@@ -5,5 +5,9 @@
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
-  }
+  },
+  "description": "This project is an Enrollment Eligibility Checker for IT313. It\r calculates the average grade of each enrollee and determines whether\r the student is PASSING or on PROBATION.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
